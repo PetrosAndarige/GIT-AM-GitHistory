@@ -13,4 +13,5 @@ This repository was created to help you explore git history through real commits
 - `challenges.md` – Common challenges (and how to deal with them)
 - `workspace.md` – Ideas for an ideal work-from-home setup
 - `communication.md` – Communication strategies, etiquette, and insights
+- `NewFile.txt` – A test file to see if I can commit code
 
